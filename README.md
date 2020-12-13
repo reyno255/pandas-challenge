@@ -4,7 +4,7 @@
 # Heroes of Pymoli
 
 This code produces several cross-sections of video game purchase data sliced to display
-purchase amounts, trends, quantities by item, gender, age and user.
+purchase amounts, trends and quantities by item, gender, age and user.
 
 The goal is to break down the large data set into meaningful results, uncovering trends 
 and explain sales.
